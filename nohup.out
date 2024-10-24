@@ -1,0 +1,1452 @@
+[2024-10-24 12:53:52.096] [info] Using configuration file /home/suleyman/.config/waybar/config.jsonc
+[2024-10-24 12:53:52.097] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: L’interface « org.freedesktop.portal.Settings » n’existe pas pour l’objet à l’emplacement /org/freedesktop/portal/desktop
+[2024-10-24 12:53:52.097] [info] Using CSS file /home/suleyman/.config/waybar/style.css
+[2024-10-24 12:53:52.110] [warning] module : Unknown module: 
+[2024-10-24 12:53:52.189] [warning] Requested height: 31 is less than the minimum height: 32 required by the modules
+[2024-10-24 12:53:52.189] [info] Bar configured (width: 1440, height: 32) for output: eDP-1
+
+** (waybar:103433): WARNING **: 12:53:52.193: Status Notifier Item with bus name ':1.102' and object path '/org/ayatana/NotificationItem/udiskie' is already registered
+
+** (waybar:103433): WARNING **: 12:53:52.193: Status Notifier Item with bus name ':1.85' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:103433): WARNING **: 12:53:53.734: Status Notifier Item with bus name ':1.85' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:103433): WARNING **: 12:53:53.735: Status Notifier Item with bus name ':1.102' and object path '/org/ayatana/NotificationItem/udiskie' is already registered
+Gdk-Message: 12:54:30.733: Unable to load default from the cursor theme
+Gdk-Message: 12:54:30.746: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:30.746: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:30.746: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:30.746: Unable to load default from the cursor theme
+Gdk-Message: 12:54:30.747: Unable to load default from the cursor theme
+Gdk-Message: 12:54:30.948: Unable to load default from the cursor theme
+Gdk-Message: 12:54:30.977: Unable to load default from the cursor theme
+Gdk-Message: 12:54:30.984: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:30.984: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:30.984: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:30.984: Unable to load default from the cursor theme
+Gdk-Message: 12:54:30.991: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:30.991: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:30.992: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:30.992: Unable to load default from the cursor theme
+Gdk-Message: 12:54:31.006: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:31.006: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:31.006: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:31.006: Unable to load default from the cursor theme
+Gdk-Message: 12:54:31.020: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:31.020: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:31.020: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:31.020: Unable to load default from the cursor theme
+Gdk-Message: 12:54:31.044: Unable to load default from the cursor theme
+Gdk-Message: 12:54:31.049: Unable to load default from the cursor theme
+Gdk-Message: 12:54:31.063: Unable to load default from the cursor theme
+Gdk-Message: 12:54:31.071: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:31.071: Unable to load default from the cursor theme
+Gdk-Message: 12:54:44.920: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:44.920: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:45.106: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.121: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.128: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:45.128: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:45.128: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:45.128: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.135: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:45.135: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:45.135: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:45.135: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.157: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:45.157: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:45.157: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:45.157: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.173: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:45.173: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:45.173: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:45.173: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.178: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.185: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.192: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.207: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:45.207: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:45.207: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:45.207: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.279: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.300: Unable to load default from the cursor theme
+Gdk-Message: 12:54:45.322: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.408: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.416: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.416: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.416: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.416: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.424: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.440: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.465: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.472: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.472: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.472: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.472: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.504: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.504: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.504: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.504: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.552: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.552: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.552: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.552: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.720: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.720: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.720: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.720: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.728: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.728: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.728: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.728: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.752: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.752: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.752: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.752: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.760: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.760: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.760: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.760: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.776: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.784: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.792: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:54:59.792: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:54:59.792: Unable to load arrow from the cursor theme
+Gdk-Message: 12:54:59.792: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.800: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.808: Unable to load default from the cursor theme
+Gdk-Message: 12:54:59.816: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.670: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.693: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.701: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.709: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:55:35.709: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:55:35.709: Unable to load arrow from the cursor theme
+Gdk-Message: 12:55:35.709: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.717: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.765: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.773: Unable to load default from the cursor theme
+Gdk-Message: 12:55:35.815: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:55:35.815: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:55:35.815: Unable to load arrow from the cursor theme
+Gdk-Message: 12:55:35.815: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.267: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.315: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:21.315: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:21.315: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:21.315: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.331: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.339: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.571: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.579: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.587: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:21.587: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:21.587: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:21.587: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.619: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:21.619: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:21.619: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:21.619: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.627: Unable to load default from the cursor theme
+Gdk-Message: 12:56:21.635: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.171: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.179: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.187: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.195: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:23.195: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:23.195: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:23.195: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.203: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.211: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:23.211: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:23.211: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:23.211: Unable to load default from the cursor theme
+Gdk-Message: 12:56:23.219: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.171: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.219: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.299: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:24.299: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:24.299: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:24.299: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.307: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:24.307: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:24.307: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:24.307: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.331: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:24.331: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:24.331: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:24.331: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.339: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:56:24.339: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:56:24.339: Unable to load arrow from the cursor theme
+Gdk-Message: 12:56:24.339: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.363: Unable to load default from the cursor theme
+Gdk-Message: 12:56:24.427: Unable to load default from the cursor theme
+Gdk-Message: 12:57:44.213: Unable to load default from the cursor theme
+Gdk-Message: 12:57:44.221: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:57:44.221: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:57:44.221: Unable to load arrow from the cursor theme
+Gdk-Message: 12:57:44.221: Unable to load default from the cursor theme
+Gdk-Message: 12:57:44.228: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:57:44.228: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:57:44.228: Unable to load arrow from the cursor theme
+Gdk-Message: 12:57:44.228: Unable to load default from the cursor theme
+Gdk-Message: 12:57:44.236: Unable to load default from the cursor theme
+Gdk-Message: 12:58:47.131: Unable to load default from the cursor theme
+Gdk-Message: 12:58:48.035: Unable to load default from the cursor theme
+Gdk-Message: 12:58:48.074: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:58:48.074: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:58:48.074: Unable to load arrow from the cursor theme
+Gdk-Message: 12:58:48.074: Unable to load default from the cursor theme
+Gdk-Message: 12:58:48.090: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 12:58:48.090: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 12:58:48.090: Unable to load arrow from the cursor theme
+Gdk-Message: 12:58:48.090: Unable to load default from the cursor theme
+Gdk-Message: 12:58:48.155: Unable to load default from the cursor theme
+Gdk-Message: 12:58:48.243: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.816: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.824: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:11.824: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:11.824: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:11.824: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.864: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.872: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.888: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:11.888: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:11.888: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:11.888: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.896: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.904: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.912: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:11.912: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:11.912: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:11.912: Unable to load default from the cursor theme
+Gdk-Message: 13:02:11.920: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:11.920: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:11.920: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:11.920: Unable to load default from the cursor theme
+Gdk-Message: 13:02:12.072: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:12.072: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:12.072: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:12.072: Unable to load default from the cursor theme
+Gdk-Message: 13:02:27.262: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:27.262: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:27.262: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:27.262: Unable to load default from the cursor theme
+Gdk-Message: 13:02:27.270: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:27.270: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:27.270: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:27.270: Unable to load default from the cursor theme
+Gdk-Message: 13:02:27.278: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:27.278: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:27.278: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:27.278: Unable to load default from the cursor theme
+Gdk-Message: 13:02:27.294: Unable to load default from the cursor theme
+Gdk-Message: 13:02:31.575: Unable to load default from the cursor theme
+Gdk-Message: 13:02:35.216: Unable to load default from the cursor theme
+Gdk-Message: 13:02:35.224: Unable to load default from the cursor theme
+Gdk-Message: 13:02:35.232: Unable to load default from the cursor theme
+Gdk-Message: 13:02:35.474: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:35.474: Unable to load default from the cursor theme
+Gdk-Message: 13:02:36.168: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:36.168: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:36.200: Unable to load default from the cursor theme
+Gdk-Message: 13:02:36.208: Unable to load default from the cursor theme
+Gdk-Message: 13:02:36.216: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:36.216: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:36.216: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:36.216: Unable to load default from the cursor theme
+Gdk-Message: 13:02:44.233: Unable to load default from the cursor theme
+Gdk-Message: 13:02:44.249: Unable to load default from the cursor theme
+Gdk-Message: 13:02:44.289: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:44.289: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:44.289: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:44.289: Unable to load default from the cursor theme
+Gdk-Message: 13:02:44.297: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:02:44.297: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:02:44.297: Unable to load arrow from the cursor theme
+Gdk-Message: 13:02:44.297: Unable to load default from the cursor theme
+Gdk-Message: 13:02:44.313: Unable to load default from the cursor theme
+Gdk-Message: 13:02:44.337: Unable to load default from the cursor theme
+Gdk-Message: 13:03:57.660: Unable to load default from the cursor theme
+Gdk-Message: 13:04:11.093: Unable to load default from the cursor theme
+Gdk-Message: 13:04:11.109: Unable to load default from the cursor theme
+Gdk-Message: 13:04:11.125: Unable to load default from the cursor theme
+Gdk-Message: 13:04:11.229: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:04:11.229: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:04:11.229: Unable to load arrow from the cursor theme
+Gdk-Message: 13:04:11.229: Unable to load default from the cursor theme
+Gdk-Message: 13:04:38.486: Unable to load default from the cursor theme
+Gdk-Message: 13:04:38.494: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:04:38.494: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:04:38.494: Unable to load arrow from the cursor theme
+Gdk-Message: 13:04:38.494: Unable to load default from the cursor theme
+Gdk-Message: 13:04:38.502: Unable to load default from the cursor theme
+Gdk-Message: 13:05:57.685: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.489: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.537: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.545: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.552: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.552: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.553: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.553: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.560: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.568: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.568: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.569: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.569: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.665: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.673: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.688: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.688: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.689: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.689: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.696: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.696: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.697: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.697: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.704: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.705: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.705: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.705: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.712: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.728: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.728: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.729: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.729: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.736: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.785: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.794: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.801: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:08:02.801: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:08:02.801: Unable to load arrow from the cursor theme
+Gdk-Message: 13:08:02.801: Unable to load default from the cursor theme
+Gdk-Message: 13:08:02.808: Unable to load default from the cursor theme
+Gdk-Message: 13:15:39.237: Unable to load default from the cursor theme
+Gdk-Message: 13:18:16.079: Unable to load default from the cursor theme
+Gdk-Message: 13:18:34.504: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.376: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.384: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:35.384: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:35.384: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:35.384: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.392: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:35.392: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:35.392: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:35.392: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.400: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:35.400: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:35.400: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:35.400: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.408: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.416: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.448: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:35.448: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:35.448: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:35.448: Unable to load default from the cursor theme
+Gdk-Message: 13:18:35.464: Unable to load default from the cursor theme
+Gdk-Message: 13:18:36.376: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.392: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.408: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.424: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.432: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.440: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.448: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:44.448: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:44.448: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:44.448: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.456: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:44.456: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:44.456: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:44.456: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.633: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.640: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.648: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.656: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:44.656: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:44.656: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:44.656: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.664: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:44.664: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:44.664: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:44.664: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.672: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:18:44.672: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:18:44.672: Unable to load arrow from the cursor theme
+Gdk-Message: 13:18:44.672: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.680: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.688: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.704: Unable to load default from the cursor theme
+Gdk-Message: 13:18:44.712: Unable to load default from the cursor theme
+Gdk-Message: 13:21:23.721: Unable to load default from the cursor theme
+Gdk-Message: 13:21:23.729: Unable to load default from the cursor theme
+Gdk-Message: 13:21:23.737: Unable to load default from the cursor theme
+Gdk-Message: 13:21:23.793: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:21:23.793: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:21:23.793: Unable to load arrow from the cursor theme
+Gdk-Message: 13:21:23.793: Unable to load default from the cursor theme
+Gdk-Message: 13:21:23.801: Unable to load arrow from the cursor theme
+Gdk-Message: 13:21:23.801: Unable to load default from the cursor theme
+Gdk-Message: 13:22:35.912: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:22:35.912: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:23:03.960: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.008: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.016: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.024: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.056: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:23:04.056: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:23:04.056: Unable to load arrow from the cursor theme
+Gdk-Message: 13:23:04.056: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.064: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.120: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.128: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.136: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:23:04.136: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:23:04.136: Unable to load arrow from the cursor theme
+Gdk-Message: 13:23:04.136: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.144: Unable to load default from the cursor theme
+Gdk-Message: 13:23:04.208: Unable to load default from the cursor theme
+Gdk-Message: 13:24:59.367: Unable to load default from the cursor theme
+Gdk-Message: 13:24:59.655: Unable to load default from the cursor theme
+Gdk-Message: 13:24:59.703: Unable to load default from the cursor theme
+Gdk-Message: 13:24:59.711: Unable to load default from the cursor theme
+Gdk-Message: 13:24:59.727: Unable to load arrow from the cursor theme
+Gdk-Message: 13:24:59.727: Unable to load default from the cursor theme
+Gdk-Message: 13:24:59.983: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:24:59.983: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:24:59.999: Unable to load default from the cursor theme
+Gdk-Message: 13:25:00.007: Unable to load default from the cursor theme
+Gdk-Message: 13:25:54.398: Unable to load default from the cursor theme
+Gdk-Message: 13:25:54.518: Unable to load default from the cursor theme
+Gdk-Message: 13:25:54.566: Unable to load default from the cursor theme
+Gdk-Message: 13:25:54.955: Unable to load default from the cursor theme
+Gdk-Message: 13:28:37.548: Unable to load default from the cursor theme
+Gdk-Message: 13:28:37.792: Unable to load default from the cursor theme
+Gdk-Message: 13:29:00.952: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.060: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.095: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.131: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.145: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.168: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.174: Unable to load default from the cursor theme
+Gdk-Message: 13:29:01.310: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.912: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.920: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.928: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.936: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.960: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:29:16.960: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:29:16.960: Unable to load arrow from the cursor theme
+Gdk-Message: 13:29:16.960: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.967: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:29:16.968: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:29:16.968: Unable to load arrow from the cursor theme
+Gdk-Message: 13:29:16.968: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.984: Unable to load default from the cursor theme
+Gdk-Message: 13:29:16.999: Unable to load default from the cursor theme
+Gdk-Message: 13:29:43.823: Unable to load default from the cursor theme
+Gdk-Message: 13:29:43.855: Unable to load default from the cursor theme
+Gdk-Message: 13:29:43.871: Unable to load default from the cursor theme
+Gdk-Message: 13:29:43.992: Unable to load arrow from the cursor theme
+Gdk-Message: 13:29:43.992: Unable to load default from the cursor theme
+Gdk-Message: 13:30:13.574: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:30:13.574: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:30:13.592: Unable to load default from the cursor theme
+Gdk-Message: 13:30:13.606: Unable to load default from the cursor theme
+Gdk-Message: 13:30:13.727: Unable to load arrow from the cursor theme
+Gdk-Message: 13:30:13.727: Unable to load default from the cursor theme
+Gdk-Message: 13:30:20.350: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:30:20.350: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:30:20.366: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.555: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.618: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.683: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.835: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:49.835: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:49.835: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:49.835: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.851: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:49.851: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:49.851: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:49.851: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.869: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:49.869: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:49.869: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:49.869: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.874: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:49.874: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:49.874: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:49.874: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.883: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:49.883: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:49.883: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:49.883: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.891: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.907: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.955: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:49.955: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:49.955: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:49.955: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.962: Unable to load default from the cursor theme
+Gdk-Message: 13:32:49.979: Unable to load default from the cursor theme
+Gdk-Message: 13:32:50.362: Unable to load default from the cursor theme
+Gdk-Message: 13:32:50.418: Unable to load default from the cursor theme
+Gdk-Message: 13:32:56.563: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.027: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.099: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.114: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.114: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.114: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.114: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.163: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.163: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.163: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.163: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.188: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.188: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.188: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.188: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.204: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.204: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.205: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.205: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.227: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.227: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.227: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.227: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.243: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.266: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.307: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.307: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.307: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.307: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.315: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.323: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.475: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.483: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.507: Unable to load default from the cursor theme
+Gdk-Message: 13:32:57.514: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:32:57.514: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:32:57.514: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:57.514: Unable to load default from the cursor theme
+Gdk-Message: 13:32:58.412: Unable to load arrow from the cursor theme
+Gdk-Message: 13:32:58.412: Unable to load default from the cursor theme
+Gdk-Message: 13:33:10.098: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:33:10.099: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:33:56.945: Unable to load default from the cursor theme
+Gdk-Message: 13:33:56.953: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:33:56.953: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:33:56.953: Unable to load arrow from the cursor theme
+Gdk-Message: 13:33:56.953: Unable to load default from the cursor theme
+Gdk-Message: 13:33:56.961: Unable to load default from the cursor theme
+Gdk-Message: 13:34:22.985: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.615: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.631: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:53.631: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:53.631: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:53.631: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.647: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.655: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.711: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.727: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:53.727: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:53.727: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:53.727: Unable to load default from the cursor theme
+Gdk-Message: 13:34:53.735: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.215: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.295: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.303: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.311: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.311: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.311: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.311: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.319: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.319: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.319: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.319: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.543: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.543: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.544: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.544: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.551: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.551: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.551: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.551: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.559: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.576: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.623: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.631: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.647: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.655: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.655: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.655: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.655: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.671: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.671: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.671: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.671: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.687: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.687: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.687: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.687: Unable to load default from the cursor theme
+Gdk-Message: 13:34:54.711: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:34:54.711: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:34:54.711: Unable to load arrow from the cursor theme
+Gdk-Message: 13:34:54.711: Unable to load default from the cursor theme
+Gdk-Message: 13:34:55.175: Unable to load default from the cursor theme
+Gdk-Message: 13:34:55.183: Unable to load default from the cursor theme
+Gdk-Message: 13:34:55.295: Unable to load default from the cursor theme
+Gdk-Message: 13:36:27.229: Unable to load default from the cursor theme
+Gdk-Message: 13:39:52.168: Unable to load default from the cursor theme
+Gdk-Message: 13:39:52.329: Unable to load arrow from the cursor theme
+Gdk-Message: 13:39:52.329: Unable to load default from the cursor theme
+Gdk-Message: 13:39:53.240: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:39:53.240: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:39:54.848: Unable to load default from the cursor theme
+Gdk-Message: 13:39:54.959: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:39:54.960: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:39:54.960: Unable to load arrow from the cursor theme
+Gdk-Message: 13:39:54.960: Unable to load default from the cursor theme
+Gdk-Message: 13:39:55.072: Unable to load default from the cursor theme
+Gdk-Message: 13:39:55.113: Unable to load arrow from the cursor theme
+Gdk-Message: 13:39:55.113: Unable to load default from the cursor theme
+Gdk-Message: 13:41:09.469: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:41:09.469: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:44:17.152: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.202: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.211: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.216: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.225: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.232: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:44:17.232: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:44:17.232: Unable to load arrow from the cursor theme
+Gdk-Message: 13:44:17.232: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.433: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.441: Unable to load default from the cursor theme
+Gdk-Message: 13:44:17.449: Unable to load arrow from the cursor theme
+Gdk-Message: 13:44:17.449: Unable to load default from the cursor theme
+Gdk-Message: 13:49:06.977: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:49:06.977: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:49:24.600: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.469: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.477: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.485: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:51:36.485: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:51:36.485: Unable to load arrow from the cursor theme
+Gdk-Message: 13:51:36.485: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.493: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.501: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:51:36.501: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:51:36.501: Unable to load arrow from the cursor theme
+Gdk-Message: 13:51:36.501: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.581: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.606: Unable to load default from the cursor theme
+Gdk-Message: 13:51:36.645: Unable to load arrow from the cursor theme
+Gdk-Message: 13:51:36.646: Unable to load default from the cursor theme
+Gdk-Message: 13:56:21.478: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:56:21.478: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:56:21.485: Unable to load default from the cursor theme
+Gdk-Message: 13:56:21.501: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:56:21.502: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:56:21.502: Unable to load arrow from the cursor theme
+Gdk-Message: 13:56:21.502: Unable to load default from the cursor theme
+Gdk-Message: 13:56:21.509: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:56:21.510: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:56:21.510: Unable to load arrow from the cursor theme
+Gdk-Message: 13:56:21.510: Unable to load default from the cursor theme
+Gdk-Message: 13:56:21.533: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:56:21.533: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:56:21.534: Unable to load arrow from the cursor theme
+Gdk-Message: 13:56:21.534: Unable to load default from the cursor theme
+Gdk-Message: 13:56:21.549: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:56:21.549: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:56:21.549: Unable to load arrow from the cursor theme
+Gdk-Message: 13:56:21.549: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.692: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.716: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.724: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.731: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:25.731: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:25.731: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:25.731: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.740: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.747: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:25.747: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:25.747: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:25.747: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.755: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.924: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.940: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.955: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:25.955: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:25.955: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:25.955: Unable to load default from the cursor theme
+Gdk-Message: 13:57:25.963: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:25.963: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:25.963: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:25.963: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.004: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:26.004: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:26.004: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:26.004: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.028: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:26.028: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:26.028: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:26.028: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.052: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.084: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:26.084: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:26.084: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:26.084: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.692: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.709: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:26.709: Unable to load default from the cursor theme
+Gdk-Message: 13:57:26.796: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:26.796: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:27.036: Unable to load default from the cursor theme
+Gdk-Message: 13:57:27.043: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:27.043: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:27.043: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:27.043: Unable to load default from the cursor theme
+Gdk-Message: 13:57:27.052: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:27.052: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:27.052: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:27.052: Unable to load default from the cursor theme
+Gdk-Message: 13:57:27.059: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:27.059: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:27.059: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:27.059: Unable to load default from the cursor theme
+Gdk-Message: 13:57:27.635: Unable to load default from the cursor theme
+Gdk-Message: 13:57:27.683: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:57:27.683: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:57:27.683: Unable to load arrow from the cursor theme
+Gdk-Message: 13:57:27.683: Unable to load default from the cursor theme
+Gdk-Message: 13:57:27.763: Unable to load default from the cursor theme
+Gdk-Message: 13:59:04.864: Unable to load default from the cursor theme
+Gdk-Message: 13:59:04.928: Unable to load default from the cursor theme
+Gdk-Message: 13:59:04.936: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:04.936: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:04.937: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:04.937: Unable to load default from the cursor theme
+Gdk-Message: 13:59:04.944: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:04.944: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:04.944: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:04.944: Unable to load default from the cursor theme
+Gdk-Message: 13:59:04.952: Unable to load default from the cursor theme
+Gdk-Message: 13:59:04.984: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.000: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.009: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.017: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.024: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:05.024: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:05.024: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:05.024: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.051: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:05.051: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:05.051: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:05.051: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.056: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:05.056: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:05.056: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:05.056: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.080: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:05.080: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:05.080: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:05.080: Unable to load default from the cursor theme
+Gdk-Message: 13:59:05.088: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 13:59:05.088: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 13:59:05.088: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:05.088: Unable to load default from the cursor theme
+Gdk-Message: 13:59:06.592: Unable to load default from the cursor theme
+Gdk-Message: 13:59:13.553: Unable to load arrow from the cursor theme
+Gdk-Message: 13:59:13.553: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.157: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:01:05.157: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:01:05.189: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.197: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.213: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.221: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:01:05.221: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:01:05.221: Unable to load arrow from the cursor theme
+Gdk-Message: 14:01:05.221: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.229: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.237: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.605: Unable to load default from the cursor theme
+Gdk-Message: 14:01:05.613: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:01:05.613: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:01:05.613: Unable to load arrow from the cursor theme
+Gdk-Message: 14:01:05.613: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.676: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.684: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.692: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.700: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.708: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:01:27.708: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:01:27.708: Unable to load arrow from the cursor theme
+Gdk-Message: 14:01:27.708: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.716: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.732: Unable to load default from the cursor theme
+Gdk-Message: 14:01:27.820: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:01:27.820: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:01:27.820: Unable to load arrow from the cursor theme
+Gdk-Message: 14:01:27.820: Unable to load default from the cursor theme
+Gdk-Message: 14:04:02.136: Unable to load default from the cursor theme
+Gdk-Message: 14:04:02.176: Unable to load default from the cursor theme
+Gdk-Message: 14:04:02.184: Unable to load default from the cursor theme
+Gdk-Message: 14:04:02.209: Unable to load default from the cursor theme
+Gdk-Message: 14:04:02.320: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:04:02.320: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:04:02.320: Unable to load arrow from the cursor theme
+Gdk-Message: 14:04:02.320: Unable to load default from the cursor theme
+Gdk-Message: 14:04:02.336: Unable to load arrow from the cursor theme
+Gdk-Message: 14:04:02.336: Unable to load default from the cursor theme
+Gdk-Message: 14:05:36.150: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:05:36.150: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:12:00.375: Unable to load default from the cursor theme
+Gdk-Message: 14:12:00.423: Unable to load default from the cursor theme
+Gdk-Message: 14:12:00.431: Unable to load default from the cursor theme
+Gdk-Message: 14:12:00.440: Unable to load default from the cursor theme
+Gdk-Message: 14:12:00.559: Unable to load default from the cursor theme
+Gdk-Message: 14:12:00.575: Unable to load default from the cursor theme
+Gdk-Message: 14:12:00.583: Unable to load default from the cursor theme
+Gdk-Message: 14:12:08.040: Unable to load default from the cursor theme
+Gdk-Message: 14:12:08.640: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:12:08.640: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:12:08.640: Unable to load arrow from the cursor theme
+Gdk-Message: 14:12:08.640: Unable to load default from the cursor theme
+Gdk-Message: 14:12:08.840: Unable to load arrow from the cursor theme
+Gdk-Message: 14:12:08.840: Unable to load default from the cursor theme
+Gdk-Message: 14:12:10.888: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:12:10.888: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:12:14.066: Unable to load arrow from the cursor theme
+Gdk-Message: 14:12:14.066: Unable to load default from the cursor theme
+Gdk-Message: 14:12:14.592: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:12:14.592: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:12:14.737: Unable to load arrow from the cursor theme
+Gdk-Message: 14:12:14.737: Unable to load default from the cursor theme
+Gdk-Message: 14:14:15.300: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:15.300: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:15.316: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:15.316: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:15.316: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:15.316: Unable to load default from the cursor theme
+Gdk-Message: 14:14:15.324: Unable to load default from the cursor theme
+Gdk-Message: 14:14:15.340: Unable to load default from the cursor theme
+Gdk-Message: 14:14:15.428: Unable to load default from the cursor theme
+Gdk-Message: 14:14:15.532: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:15.532: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:15.532: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:15.532: Unable to load default from the cursor theme
+Gdk-Message: 14:14:22.196: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:22.196: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:22.196: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:22.196: Unable to load default from the cursor theme
+Gdk-Message: 14:14:22.245: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:22.245: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.638: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:50.638: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:50.646: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:50.646: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:50.646: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:50.646: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.654: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.670: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.678: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.686: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:50.686: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:50.686: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:50.686: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.694: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:50.694: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:50.694: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:50.694: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.702: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:14:50.702: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:14:50.702: Unable to load arrow from the cursor theme
+Gdk-Message: 14:14:50.702: Unable to load default from the cursor theme
+Gdk-Message: 14:14:50.710: Unable to load default from the cursor theme
+Gdk-Message: 14:15:41.251: Unable to load default from the cursor theme
+Gdk-Message: 14:15:41.258: Unable to load default from the cursor theme
+Gdk-Message: 14:15:41.282: Unable to load default from the cursor theme
+Gdk-Message: 14:15:41.306: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:15:41.306: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:15:41.306: Unable to load arrow from the cursor theme
+Gdk-Message: 14:15:41.306: Unable to load default from the cursor theme
+Gdk-Message: 14:15:41.354: Unable to load default from the cursor theme
+Gdk-Message: 14:15:41.372: Unable to load arrow from the cursor theme
+Gdk-Message: 14:15:41.372: Unable to load default from the cursor theme
+Gdk-Message: 14:17:11.248: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:17:11.248: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:17:15.464: Unable to load default from the cursor theme
+Gdk-Message: 14:17:15.489: Unable to load default from the cursor theme
+Gdk-Message: 14:20:34.890: Unable to load default from the cursor theme
+Gdk-Message: 14:20:35.698: Unable to load default from the cursor theme
+Gdk-Message: 14:21:59.261: Unable to load default from the cursor theme
+Gdk-Message: 14:21:59.333: Unable to load default from the cursor theme
+Gdk-Message: 14:21:59.341: Unable to load default from the cursor theme
+Gdk-Message: 14:21:59.349: Unable to load arrow from the cursor theme
+Gdk-Message: 14:21:59.349: Unable to load default from the cursor theme
+Gdk-Message: 14:21:59.349: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:21:59.349: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:21:59.358: Unable to load arrow from the cursor theme
+Gdk-Message: 14:21:59.358: Unable to load default from the cursor theme
+Gdk-Message: 14:22:05.526: Unable to load default from the cursor theme
+Gdk-Message: 14:22:55.679: Unable to load default from the cursor theme
+Gdk-Message: 14:22:55.719: Unable to load default from the cursor theme
+Gdk-Message: 14:22:55.727: Unable to load default from the cursor theme
+Gdk-Message: 14:22:55.735: Unable to load arrow from the cursor theme
+Gdk-Message: 14:22:55.735: Unable to load default from the cursor theme
+Gdk-Message: 14:26:03.556: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:26:03.556: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:26:46.708: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.716: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.765: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.781: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.796: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:26:46.796: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:26:46.796: Unable to load arrow from the cursor theme
+Gdk-Message: 14:26:46.797: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.838: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.852: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:26:46.852: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:26:46.852: Unable to load arrow from the cursor theme
+Gdk-Message: 14:26:46.852: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.869: Unable to load default from the cursor theme
+Gdk-Message: 14:26:46.877: Unable to load default from the cursor theme
+Gdk-Message: 14:27:34.862: Unable to load default from the cursor theme
+Gdk-Message: 14:27:34.870: Unable to load default from the cursor theme
+Gdk-Message: 14:27:34.878: Unable to load default from the cursor theme
+Gdk-Message: 14:27:34.886: Unable to load default from the cursor theme
+Gdk-Message: 14:27:34.894: Unable to load default from the cursor theme
+Gdk-Message: 14:27:34.901: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:27:34.901: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:27:34.901: Unable to load arrow from the cursor theme
+Gdk-Message: 14:27:34.901: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.005: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.014: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.021: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:27:35.021: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:27:35.021: Unable to load arrow from the cursor theme
+Gdk-Message: 14:27:35.021: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.030: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.039: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.046: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.054: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.078: Unable to load default from the cursor theme
+Gdk-Message: 14:27:35.085: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:27:35.085: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:27:35.085: Unable to load arrow from the cursor theme
+Gdk-Message: 14:27:35.085: Unable to load default from the cursor theme
+Gdk-Message: 14:29:30.088: Unable to load default from the cursor theme
+Gdk-Message: 14:29:30.112: Unable to load default from the cursor theme
+Gdk-Message: 14:29:30.128: Unable to load default from the cursor theme
+Gdk-Message: 14:29:30.136: Unable to load arrow from the cursor theme
+Gdk-Message: 14:29:30.136: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.720: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:29:52.720: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:29:52.760: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.768: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.776: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.792: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.816: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:29:52.816: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:29:52.816: Unable to load arrow from the cursor theme
+Gdk-Message: 14:29:52.816: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.864: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.880: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:29:52.880: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:29:52.880: Unable to load arrow from the cursor theme
+Gdk-Message: 14:29:52.880: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.888: Unable to load default from the cursor theme
+Gdk-Message: 14:29:52.896: Unable to load default from the cursor theme
+Gdk-Message: 14:31:00.569: Unable to load default from the cursor theme
+Gdk-Message: 14:31:00.608: Unable to load default from the cursor theme
+Gdk-Message: 14:31:12.945: Unable to load default from the cursor theme
+Gdk-Message: 14:31:12.953: Unable to load default from the cursor theme
+Gdk-Message: 14:31:12.977: Unable to load default from the cursor theme
+Gdk-Message: 14:31:12.993: Unable to load default from the cursor theme
+Gdk-Message: 14:31:13.209: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:31:13.209: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:31:13.209: Unable to load arrow from the cursor theme
+Gdk-Message: 14:31:13.209: Unable to load default from the cursor theme
+Gdk-Message: 14:31:13.217: Unable to load arrow from the cursor theme
+Gdk-Message: 14:31:13.217: Unable to load default from the cursor theme
+Gdk-Message: 14:35:51.940: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:35:51.940: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:35:51.956: Unable to load default from the cursor theme
+Gdk-Message: 14:35:51.964: Unable to load default from the cursor theme
+Gdk-Message: 14:35:51.972: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:35:51.972: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:35:51.972: Unable to load arrow from the cursor theme
+Gdk-Message: 14:35:51.972: Unable to load default from the cursor theme
+Gdk-Message: 14:35:51.988: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:35:51.988: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:35:51.988: Unable to load arrow from the cursor theme
+Gdk-Message: 14:35:51.988: Unable to load default from the cursor theme
+Gdk-Message: 14:35:51.996: Unable to load default from the cursor theme
+Gdk-Message: 14:35:52.004: Unable to load default from the cursor theme
+Gdk-Message: 14:35:55.172: Unable to load default from the cursor theme
+Gdk-Message: 14:35:55.179: Unable to load default from the cursor theme
+Gdk-Message: 14:35:55.188: Unable to load default from the cursor theme
+Gdk-Message: 14:35:55.196: Unable to load default from the cursor theme
+Gdk-Message: 14:35:55.228: Unable to load arrow from the cursor theme
+Gdk-Message: 14:35:55.228: Unable to load default from the cursor theme
+Gdk-Message: 14:39:28.093: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:39:28.093: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:39:28.127: Unable to load arrow from the cursor theme
+Gdk-Message: 14:39:28.127: Unable to load default from the cursor theme
+Gdk-Message: 14:39:28.285: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:39:28.285: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:39:28.301: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:39:28.301: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:39:28.301: Unable to load arrow from the cursor theme
+Gdk-Message: 14:39:28.301: Unable to load default from the cursor theme
+Gdk-Message: 14:39:28.326: Unable to load default from the cursor theme
+Gdk-Message: 14:39:28.351: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:39:28.351: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:39:28.351: Unable to load default from the cursor theme
+Gdk-Message: 14:39:28.351: Unable to load arrow from the cursor theme
+Gdk-Message: 14:39:28.351: Unable to load default from the cursor theme
+Gdk-Message: 14:39:28.358: Unable to load default from the cursor theme
+Gdk-Message: 14:40:37.798: Unable to load default from the cursor theme
+Gdk-Message: 14:40:37.886: Unable to load default from the cursor theme
+Gdk-Message: 14:40:37.893: Unable to load default from the cursor theme
+Gdk-Message: 14:40:37.926: Unable to load default from the cursor theme
+Gdk-Message: 14:40:37.942: Unable to load default from the cursor theme
+Gdk-Message: 14:42:08.302: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.214: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.222: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:42:09.222: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:42:09.222: Unable to load arrow from the cursor theme
+Gdk-Message: 14:42:09.222: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.230: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:42:09.230: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:42:09.230: Unable to load arrow from the cursor theme
+Gdk-Message: 14:42:09.230: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.238: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.286: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.303: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:42:09.303: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:42:09.303: Unable to load arrow from the cursor theme
+Gdk-Message: 14:42:09.303: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.320: Unable to load arrow from the cursor theme
+Gdk-Message: 14:42:09.320: Unable to load default from the cursor theme
+Gdk-Message: 14:42:09.558: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:42:09.558: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:42:10.271: Unable to load default from the cursor theme
+Gdk-Message: 14:45:07.761: Unable to load default from the cursor theme
+Gdk-Message: 14:45:07.792: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:45:07.793: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:45:07.793: Unable to load arrow from the cursor theme
+Gdk-Message: 14:45:07.793: Unable to load default from the cursor theme
+Gdk-Message: 14:45:07.808: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:45:07.809: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:45:07.809: Unable to load arrow from the cursor theme
+Gdk-Message: 14:45:07.809: Unable to load default from the cursor theme
+Gdk-Message: 14:45:08.056: Unable to load default from the cursor theme
+Gdk-Message: 14:45:08.144: Unable to load default from the cursor theme
+Gdk-Message: 14:45:08.177: Unable to load default from the cursor theme
+Gdk-Message: 14:45:08.192: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:45:08.193: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:45:08.193: Unable to load arrow from the cursor theme
+Gdk-Message: 14:45:08.193: Unable to load default from the cursor theme
+Gdk-Message: 14:46:20.083: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:46:20.083: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:46:20.083: Unable to load arrow from the cursor theme
+Gdk-Message: 14:46:20.083: Unable to load default from the cursor theme
+Gdk-Message: 14:47:16.209: Unable to load default from the cursor theme
+Gdk-Message: 14:47:16.241: Unable to load default from the cursor theme
+Gdk-Message: 14:47:16.249: Unable to load default from the cursor theme
+Gdk-Message: 14:47:16.265: Unable to load default from the cursor theme
+Gdk-Message: 14:47:16.273: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:47:16.273: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:47:16.273: Unable to load arrow from the cursor theme
+Gdk-Message: 14:47:16.273: Unable to load default from the cursor theme
+Gdk-Message: 14:47:16.546: Unable to load arrow from the cursor theme
+Gdk-Message: 14:47:16.546: Unable to load default from the cursor theme
+Gdk-Message: 14:54:13.924: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:54:13.924: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:54:13.932: Unable to load default from the cursor theme
+Gdk-Message: 14:54:13.940: Unable to load default from the cursor theme
+Gdk-Message: 14:54:13.956: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:54:13.956: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:54:13.956: Unable to load arrow from the cursor theme
+Gdk-Message: 14:54:13.956: Unable to load default from the cursor theme
+Gdk-Message: 14:54:13.964: Unable to load default from the cursor theme
+Gdk-Message: 14:54:13.972: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:54:13.972: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:54:13.972: Unable to load arrow from the cursor theme
+Gdk-Message: 14:54:13.972: Unable to load default from the cursor theme
+Gdk-Message: 14:54:13.980: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:54:13.980: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:54:13.980: Unable to load arrow from the cursor theme
+Gdk-Message: 14:54:13.980: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.069: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.077: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.084: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:48.084: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:48.085: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:48.085: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.093: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.101: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.117: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.124: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.141: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.149: Unable to load default from the cursor theme
+Gdk-Message: 14:56:48.156: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:48.156: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:48.157: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:48.157: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.437: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.445: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.453: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.453: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.453: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.453: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.469: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.469: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.469: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.469: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.477: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.485: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.493: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.510: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.518: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.557: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.565: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.565: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.565: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.565: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.573: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.621: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.629: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.655: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.655: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.655: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.655: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.655: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.660: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.660: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.661: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.661: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.668: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.668: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.669: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.669: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.676: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.677: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.677: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.677: Unable to load default from the cursor theme
+Gdk-Message: 14:56:49.692: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:56:49.692: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:56:49.693: Unable to load arrow from the cursor theme
+Gdk-Message: 14:56:49.693: Unable to load default from the cursor theme
+Gdk-Message: 14:59:05.750: Unable to load default from the cursor theme
+Gdk-Message: 14:59:05.781: Unable to load arrow from the cursor theme
+Gdk-Message: 14:59:05.781: Unable to load default from the cursor theme
+Gdk-Message: 14:59:05.781: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:59:05.781: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:59:05.802: Unable to load default from the cursor theme
+Gdk-Message: 14:59:05.910: Unable to load default from the cursor theme
+Gdk-Message: 14:59:06.356: Unable to load arrow from the cursor theme
+Gdk-Message: 14:59:06.356: Unable to load default from the cursor theme
+Gdk-Message: 14:59:06.356: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 14:59:06.356: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 14:59:06.363: Unable to load default from the cursor theme
+Gdk-Message: 14:59:06.377: Unable to load default from the cursor theme
+Gdk-Message: 14:59:06.385: Unable to load arrow from the cursor theme
+Gdk-Message: 14:59:06.385: Unable to load default from the cursor theme
+Gdk-Message: 15:02:53.818: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:02:53.818: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:02:54.378: Unable to load default from the cursor theme
+Gdk-Message: 15:02:54.930: Unable to load default from the cursor theme
+Gdk-Message: 15:02:54.938: Unable to load arrow from the cursor theme
+Gdk-Message: 15:02:54.938: Unable to load default from the cursor theme
+Gdk-Message: 15:02:54.938: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:02:54.938: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:02:54.954: Unable to load default from the cursor theme
+Gdk-Message: 15:02:54.954: Unable to load arrow from the cursor theme
+Gdk-Message: 15:02:54.954: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.730: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.809: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.818: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:03:20.818: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:03:20.818: Unable to load arrow from the cursor theme
+Gdk-Message: 15:03:20.818: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.826: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:03:20.826: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:03:20.826: Unable to load arrow from the cursor theme
+Gdk-Message: 15:03:20.826: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.866: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.874: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.882: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.890: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.898: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.906: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:03:20.906: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:03:20.906: Unable to load arrow from the cursor theme
+Gdk-Message: 15:03:20.906: Unable to load default from the cursor theme
+Gdk-Message: 15:03:20.914: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:03:20.914: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:03:20.914: Unable to load arrow from the cursor theme
+Gdk-Message: 15:03:20.914: Unable to load default from the cursor theme
+Gdk-Message: 15:04:29.171: Unable to load default from the cursor theme
+Gdk-Message: 15:04:29.187: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:04:29.187: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:04:29.187: Unable to load arrow from the cursor theme
+Gdk-Message: 15:04:29.187: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.666: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.674: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:05:20.674: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:05:20.674: Unable to load arrow from the cursor theme
+Gdk-Message: 15:05:20.674: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.682: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.747: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.754: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.762: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:05:20.762: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:05:20.762: Unable to load arrow from the cursor theme
+Gdk-Message: 15:05:20.762: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.779: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:05:20.779: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:05:20.779: Unable to load arrow from the cursor theme
+Gdk-Message: 15:05:20.779: Unable to load default from the cursor theme
+Gdk-Message: 15:05:20.787: Unable to load default from the cursor theme
+Gdk-Message: 15:05:21.298: Unable to load default from the cursor theme
+Gdk-Message: 15:05:21.339: Unable to load default from the cursor theme
+Gdk-Message: 15:05:54.979: Unable to load default from the cursor theme
+Gdk-Message: 15:05:54.995: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:05:54.995: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:05:54.995: Unable to load arrow from the cursor theme
+Gdk-Message: 15:05:54.995: Unable to load default from the cursor theme
+Gdk-Message: 15:06:07.506: Unable to load default from the cursor theme
+Gdk-Message: 15:06:07.514: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:06:07.514: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:06:07.514: Unable to load arrow from the cursor theme
+Gdk-Message: 15:06:07.514: Unable to load default from the cursor theme
+Gdk-Message: 15:06:07.522: Unable to load default from the cursor theme
+Gdk-Message: 15:06:07.530: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:06:07.530: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:06:07.530: Unable to load arrow from the cursor theme
+Gdk-Message: 15:06:07.530: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.402: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.411: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.418: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.434: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.539: Unable to load default from the cursor theme
+
+(waybar:103433): GLib-GObject-CRITICAL **: 15:06:10.539: g_object_ref: assertion 'G_IS_OBJECT (object)' failed
+Gdk-Message: 15:06:10.539: Unable to load arrow from the cursor theme
+Gdk-Message: 15:06:10.539: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.547: Unable to load default from the cursor theme
+Gdk-Message: 15:06:10.555: Unable to load default from the cursor theme
+Gdk-Message: 15:06:46.003: Unable to load default from the cursor theme
+Gdk-Message: 15:06:46.130: Unable to load default from the cursor theme
+Gdk-Message: 15:06:46.162: Unable to load default from the cursor theme
