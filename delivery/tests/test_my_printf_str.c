@@ -122,3 +122,21 @@ Test(my_printf, width_smaller_than_string, .init=redirect_all_std)
     my_printf("Width smaller than string: %2sa\n", "test");
     cr_assert_stdout_eq_str("Width smaller than string: testa\n");
 }
+
+Test(my_printf, left_justified_string, .init=redirect_all_std)
+{
+    my_printf("left justified: %-10sa\n", "test");
+    cr_assert_stdout_eq_str("left justified: test      a\n");
+}
+
+Test(my_printf, special_characters_string, .init=redirect_all_std)
+{
+    my_printf("special chars: %sa\n", "Line1\nLine2\tTabbed");
+    cr_assert_stdout_eq_str("special chars: Line1\nLine2\tTabbeda\n");
+}
+
+Test(my_printf, null_string, .init=redirect_all_std)
+{
+    my_printf("string: %saaa\n", NULL);
+    cr_assert_stdout_eq_str("string: (null)aaa\n");
+}

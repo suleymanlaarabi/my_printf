@@ -49,3 +49,9 @@ Test(my_printf, max_octal, .init=redirect_all_std)
     my_printf("number: %ozw", 2147483647);
     cr_assert_stdout_eq_str("number: 17777777777zw");
 }
+
+Test(my_printf, octal_number, .init=redirect_all_std)
+{
+    my_printf("octal: %oa\n", 255);
+    cr_assert_stdout_eq_str("octal: 377a\n");
+}

@@ -55,3 +55,15 @@ Test(my_printf, max_int_hex_plusone, .init=redirect_all_std)
     my_printf("number: %xzw", 2147483648);
     cr_assert_stdout_eq_str("number: 80000000zw");
 }
+
+Test(my_printf, hexa_number, .init=redirect_all_std)
+{
+    my_printf("hex: %xaaa\n", 255);
+    cr_assert_stdout_eq_str("hex: ffaaa\n");
+}
+
+Test(my_printf, long_hexa_number, .init=redirect_all_std)
+{
+    my_printf("long hex: %lxaaa\n", LONG_MAX);
+    cr_assert_stdout_eq_str("long hex: 7fffffffffffffffaaa\n");
+}
