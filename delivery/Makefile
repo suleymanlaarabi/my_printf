@@ -25,7 +25,7 @@ libmy:
 lib: libmy
 
 all: lib
-	gcc $(SRC) $(LIB) -o $(NAME)
+	gcc -g3 $(SRC) $(LIB) -o $(NAME)
 
 run: all
 	./$(NAME)

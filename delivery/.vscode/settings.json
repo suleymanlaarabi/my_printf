@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mylist.h": "c",
+        "stdio.h": "c",
+        "sstream": "c",
+        "my.h": "c",
+        "my_printf.h": "c",
+        "stddef.h": "c"
+    }
+}

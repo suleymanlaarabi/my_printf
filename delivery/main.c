@@ -10,12 +10,10 @@
 #include "lib/my/include/my_printf.h"
 #include <stdio.h>
 
+
 int main(int ac, char **av)
 {
-    my_printf("char: %c, str: %s, int: %d, uint: %u, hex: %x, oct: %o, float: %f, percent: %%\n",
-              'A', "hello", -42, 42, 255, 255, 3.14);
-    printf("char: %c, str: %s, int: %d, uint: %u, hex: %x, oct: %o, float: %f, percent: %%\n",
-              'A', "hello", -42, 42, 255, 255, 3.14);
-
+    my_printf("value: %g\n", 12.2);
+    printf("value: %g\n", 12.2);
     return 0;
 }
