@@ -43,3 +43,9 @@ Test(my_printf, multiple_neg_octal_nospace, .init=redirect_all_std)
     my_printf("number: %o%o zw", -8, -12);
     cr_assert_stdout_eq_str("number: 3777777777037777777764 zw");
 }
+
+Test(my_printf, max_octal, .init=redirect_all_std)
+{
+    my_printf("number: %ozw", 2147483647);
+    cr_assert_stdout_eq_str("number: 17777777777zw");
+}

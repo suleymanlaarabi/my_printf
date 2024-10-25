@@ -43,3 +43,9 @@ Test(my_printf, multiple_neg_hex_nospace, .init=redirect_all_std)
     my_printf("number: %x%x zw", -8, -12);
     cr_assert_stdout_eq_str("number: fffffff8fffffff4 zw");
 }
+
+Test(my_printf, max_hex, .init=redirect_all_std)
+{
+    my_printf("number: %xzw", 2147483647);
+    cr_assert_stdout_eq_str("number: 7fffffffzw");
+}
