@@ -19,13 +19,16 @@ LIB_MY_INCLUDE = -L$(LIB_MY_PATH) -lmy
 
 LIB = $(LIB_MY_INCLUDE)
 
+all: lib
+	gcc $(SRC) $(LIB) -o $(NAME)
+
 libmy:
 	make all -C $(LIB_MY_PATH) 1> /dev/null
 
 lib: libmy
 
-all: lib
-	gcc -g3 $(SRC) $(LIB) -o $(NAME)
+debug: lib
+	gcc $(SRC) $(LIB) -o $(NAME)
 
 run: all
 	./$(NAME)

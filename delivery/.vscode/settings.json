@@ -5,6 +5,21 @@
         "sstream": "c",
         "my.h": "c",
         "my_printf.h": "c",
-        "stddef.h": "c"
+        "stddef.h": "c",
+        "charconv": "c",
+        "chrono": "c",
+        "optional": "c",
+        "format": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "*.tcc": "c",
+        "unistd.h": "c",
+        "my_getnbr.h": "c",
+        "stdarg.h": "c"
     }
 }

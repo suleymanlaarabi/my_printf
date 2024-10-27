@@ -32,6 +32,24 @@ Test(my_printf, infinity_float, .init=redirect_all_std)
     cr_assert_stdout_eq_str("infinity: infa\n");
 }
 
+Test(my_printf, min_infinity_float, .init=redirect_all_std)
+{
+    my_printf("infinity: %fa\n", -INFINITY);
+    cr_assert_stdout_eq_str("infinity: -infa\n");
+}
+
+Test(my_printf, upp_infinity_float, .init=redirect_all_std)
+{
+    my_printf("infinity: %Fa\n", INFINITY);
+    cr_assert_stdout_eq_str("infinity: INFa\n");
+}
+
+Test(my_printf, upp_min_infinity_float, .init=redirect_all_std)
+{
+    my_printf("infinity: %Fa\n", -INFINITY);
+    cr_assert_stdout_eq_str("infinity: -INFa\n");
+}
+
 Test(my_printf, nan_float, .init=redirect_all_std)
 {
     my_printf("NaN: %fa\n", NAN);
@@ -96,4 +114,22 @@ Test(my_printf, float_zero_upper, .init=redirect_all_std)
 {
     my_printf("zero float: %Fa\n", 0.0);
     cr_assert_stdout_eq_str("zero float: 0.000000a\n");
+}
+
+Test(my_printf, precision_case_1, .init=redirect_all_std)
+{
+    my_printf("zero float: %.4fa\n", 0.0);
+    cr_assert_stdout_eq_str("zero float: 0.0000a\n");
+}
+
+Test(my_printf, precision_0_test, .init=redirect_all_std)
+{
+    my_printf("pointer: %.0f\n", 1.3);
+    cr_assert_stdout_eq_str("pointer: 1\n");
+}
+
+Test(my_printf, precision_0_test_2, .init=redirect_all_std)
+{
+    my_printf("pointer: %.0f\n", 21.13);
+    cr_assert_stdout_eq_str("pointer: 21\n");
 }

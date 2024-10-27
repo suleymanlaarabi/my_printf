@@ -1,0 +1,4 @@
+.vscode/
+.clang-format
+main
+main.c
