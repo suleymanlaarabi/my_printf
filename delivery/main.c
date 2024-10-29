@@ -9,11 +9,10 @@
 #include <limits.h>
 #include <stdarg.h>
 #include <stdio.h>
-#include <math.h>
 
 int main(int ac, char **av)
 {
-    my_printf("negative zero: %faaa\n", -0.0);
-    printf("negative zero: %faaa\n", -0.0);
+    my_printf("%-10da\n", 237);
+    printf(   "%-10da\n", 237);
     return 0;
 }

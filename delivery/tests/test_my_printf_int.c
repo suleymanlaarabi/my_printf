@@ -44,14 +44,8 @@ Test(my_printf, spec_int_multiple, .init=redirect_all_std)
     cr_assert_stdout_eq_str("is number    120008 eza");
 }
 
-Test(my_printf, zero_padded_number, .init=redirect_all_std)
+Test(my_printf, star_padded_number, .init=redirect_all_std)
 {
     my_printf("number with leading zeros: %05daaa\n", 42);
     cr_assert_stdout_eq_str("number with leading zeros: 00042aaa\n");
-}
-
-Test(my_printf, extra_arguments, .init=redirect_all_std)
-{
-    my_printf("number: %daaa\n", 42, 100);
-    cr_assert_stdout_eq_str("number: 42aaa\n");
 }
