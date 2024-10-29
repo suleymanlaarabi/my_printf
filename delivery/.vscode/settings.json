@@ -20,6 +20,9 @@
         "*.tcc": "c",
         "unistd.h": "c",
         "my_getnbr.h": "c",
-        "stdarg.h": "c"
+        "stdarg.h": "c",
+        "limits.h": "c",
+        "my_math.h": "c",
+        "cmath": "c"
     }
 }
