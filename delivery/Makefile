@@ -19,8 +19,8 @@ LIB_MY_INCLUDE = -L$(LIB_MY_PATH) -lmy
 
 LIB = $(LIB_MY_INCLUDE)
 
-all: lib
-	gcc -g $(SRC) $(LIB) -o $(NAME)
+all: libmy
+	gcc -g $(SRC) $(LIB) -o $(NAME) 1> /dev/null
 
 libmy:
 	make all -C $(LIB_MY_PATH) 1> /dev/null

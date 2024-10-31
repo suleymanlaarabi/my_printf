@@ -12,7 +12,7 @@
 
 int main(int ac, char **av)
 {
-    my_printf("%-10da\n", 237);
-    printf(   "%-10da\n", 237);
+    my_printf("%.*f\n", 2, -0.000199);
+    printf("%.*f\n", 2,   -0.000199);
     return 0;
 }

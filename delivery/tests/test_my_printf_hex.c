@@ -10,7 +10,6 @@
 #include "../lib/my/include/my_printf.h"
 #include <limits.h>
 #include <float.h>
-#include <math.h>
 
 void redirect_all_std(void);
 
