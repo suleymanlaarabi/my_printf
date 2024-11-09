@@ -8,11 +8,9 @@
 #include "lib/my/include/my_printf.h"
 #include <limits.h>
 #include <stdarg.h>
-#include <stdio.h>
 
 int main(int ac, char **av)
 {
-    my_printf("%.*f\n", 2, -0.000199);
-    printf("%.*f\n", 2,   -0.000199);
+    my_printf("%*s\n", 10, "popo");
     return 0;
 }
